@@ -44,9 +44,7 @@ print(k.is_bst)
 ```
 
 ## OUTPUT
-```
-![image](https://github.com/user-attachments/assets/f60c94cc-5d55-4e11-92a8-f011754dbee4)
-```
+![image](https://github.com/user-attachments/assets/468befb5-0d2a-43ef-a903-de63b677c1e8)
 
 ## RESULT
 Thus the Python program to build a binary search tree using a built-in function is verified successfully.
